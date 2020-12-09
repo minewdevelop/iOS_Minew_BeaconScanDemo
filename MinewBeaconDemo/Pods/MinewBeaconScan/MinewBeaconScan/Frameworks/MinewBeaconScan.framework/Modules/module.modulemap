@@ -1,0 +1,6 @@
+framework module MinewBeaconScan {
+  umbrella header "MinewBeaconScan.h"
+
+  export *
+  module * { export * }
+}

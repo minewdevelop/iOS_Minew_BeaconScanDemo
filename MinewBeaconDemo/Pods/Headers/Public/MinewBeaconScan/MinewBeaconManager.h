@@ -1,0 +1,1 @@
+../../../MinewBeaconScan/MinewBeaconScan/Classes/MinewBeaconManager.h

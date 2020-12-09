@@ -1,0 +1,6 @@
+framework module Pods_MinewBeaconDemoTests {
+  umbrella header "Pods-MinewBeaconDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

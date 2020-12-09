@@ -1,0 +1,16 @@
+PODS:
+  - MinewBeaconScan (1.0.0)
+
+DEPENDENCIES:
+  - MinewBeaconScan
+
+SPEC REPOS:
+  trunk:
+    - MinewBeaconScan
+
+SPEC CHECKSUMS:
+  MinewBeaconScan: 7f11e467431eb3738e193b2d1801f53499c38e2e
+
+PODFILE CHECKSUM: 3bf6ddc5b00187c16ed13d4e6fb074f7822b8d51
+
+COCOAPODS: 1.10.0
